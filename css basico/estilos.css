@@ -1,6 +1,28 @@
 p {
     color:blue;
-    font-family: sans-serif, tahoma;
-    font-size: 20px;
-    font-weight: 300;
+    font-family: monserrat, sans-serif, tahoma;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: oblique;
+    text-align: left;
+    text-align: justify;
+    text-decoration: underline;
+    line-height: 1.5;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 5px blueviolet;
+    word-wrap: break-word;
+    word-break: break-all;
+
+}
+h1 {
+    text-align: center;
+    text-decoration: overline line-through;
+    text-transform: capitalize;
+}
+h2 {
+    text-align: right;
+    text-align: start;
+    text-decoration: none;
+    text-transform: lowercase;
 }
